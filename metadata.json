@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sandiara Digital Secrétariat",
+  "description": "Système de digitalisation et de gestion électronique des documents (GED) pour la mairie de Sandiara, avec suivi en temps réel et contrôle d'accès sécurisé.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
